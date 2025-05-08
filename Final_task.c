@@ -20,8 +20,6 @@ typedef struct {
 incident reports[MAX_REPORTS];
 int count_report = 0;
 
-// Utility Functions
-
 void clear()
 {
 #ifdef _WIN32
